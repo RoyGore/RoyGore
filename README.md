@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @RoyGore
+- 👀 I’m interested in SummerNote editor for use on websites ...
+- 🌱 I’m currently learning to create websites using WYSIWYG Web Builder (WWB) ...
+- 📫 I can be reached on my email address:  roy.gore@rlgconsulting.co.uk ...
+
+<!---
+RoyGore/RoyGore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
